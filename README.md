@@ -8,6 +8,6 @@ and hope to become a good programmer hehe
 * ```homework_bot``` - a little bot notifying about status of checking homework on Яндекс.Домашка
 
 ### Languages and tools
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
           
