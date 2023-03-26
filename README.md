@@ -7,5 +7,6 @@ and hope to become a good programmer hehe
 * ```final_api_yatube``` - an improved yatube with API
 * ```homework_bot``` - a little bot notifying about status of checking homework on Яндекс.Домашка
 
-### Languages
-python 3.7
+### Languages and tools
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+          
